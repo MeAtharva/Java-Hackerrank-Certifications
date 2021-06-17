@@ -1,4 +1,4 @@
-2. [Java](#java)
+[Java](#java)
 ## Certification
 #### Java (Basic)
 |Problem No.|Challenge|Solution|
